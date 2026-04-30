@@ -1,3 +1,6 @@
+# BI_Portfolio
+Business Intelligence portfolio showcasing data analysis, dashboards, and insights using Python, SQL, and Power BI.
+
 # Hi, I'm a Business Intelligence Analyst in training
 
 I’m a Business Intelligence student passionate about transforming raw data into meaningful insights and deeply passionate about using data to contribute to social impact and support projects that aim to improve society.
